@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\Pharm\Pharm.Domain\bin\Debug\net5.0\Pharm.Domain.deps.json
+C:\Users\User\Desktop\Pharm\Pharm.Domain\bin\Debug\net5.0\Pharm.Domain.dll
+C:\Users\User\Desktop\Pharm\Pharm.Domain\bin\Debug\net5.0\ref\Pharm.Domain.dll
+C:\Users\User\Desktop\Pharm\Pharm.Domain\bin\Debug\net5.0\Pharm.Domain.pdb
+C:\Users\User\Desktop\Pharm\Pharm.Domain\obj\Debug\net5.0\Pharm.Domain.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Pharm\Pharm.Domain\obj\Debug\net5.0\Pharm.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Pharm\Pharm.Domain\obj\Debug\net5.0\Pharm.Domain.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Pharm\Pharm.Domain\obj\Debug\net5.0\Pharm.Domain.AssemblyInfo.cs
+C:\Users\User\Desktop\Pharm\Pharm.Domain\obj\Debug\net5.0\Pharm.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Pharm\Pharm.Domain\obj\Debug\net5.0\Pharm.Domain.dll
+C:\Users\User\Desktop\Pharm\Pharm.Domain\obj\Debug\net5.0\ref\Pharm.Domain.dll
+C:\Users\User\Desktop\Pharm\Pharm.Domain\obj\Debug\net5.0\Pharm.Domain.pdb

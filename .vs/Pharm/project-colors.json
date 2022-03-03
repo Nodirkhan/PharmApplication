@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c825a8bd-7597-4ea6-a02a-06837ad1fe41": {
+      "ProjectGuid": "c825a8bd-7597-4ea6-a02a-06837ad1fe41",
+      "DisplayName": "Pharm.Domain",
+      "ColorIndex": 0
+    },
+    "5b37f279-83fe-4798-8950-9a2faecc3236": {
+      "ProjectGuid": "5b37f279-83fe-4798-8950-9a2faecc3236",
+      "DisplayName": "Pharm",
+      "ColorIndex": 1
+    },
+    "90cefe02-379b-4d4f-8c74-84616c3ff883": {
+      "ProjectGuid": "90cefe02-379b-4d4f-8c74-84616c3ff883",
+      "DisplayName": "Pharm.Infrastructure",
+      "ColorIndex": 2
+    },
+    "aed54f35-0c60-4e94-bc30-6a15cef812b4": {
+      "ProjectGuid": "aed54f35-0c60-4e94-bc30-6a15cef812b4",
+      "DisplayName": "Pharm.Application",
+      "ColorIndex": 3
+    },
+    "81f194f3-a69c-4878-a150-de27cb701192": {
+      "ProjectGuid": "81f194f3-a69c-4878-a150-de27cb701192",
+      "DisplayName": "Phamr.CRUDAPI",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 5
+}

@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\Pharm\Pharm.Application\bin\Debug\net5.0\Pharm.Application.deps.json
+C:\Users\User\Desktop\Pharm\Pharm.Application\bin\Debug\net5.0\Pharm.Application.dll
+C:\Users\User\Desktop\Pharm\Pharm.Application\bin\Debug\net5.0\ref\Pharm.Application.dll
+C:\Users\User\Desktop\Pharm\Pharm.Application\bin\Debug\net5.0\Pharm.Application.pdb
+C:\Users\User\Desktop\Pharm\Pharm.Application\obj\Debug\net5.0\Pharm.Application.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Pharm\Pharm.Application\obj\Debug\net5.0\Pharm.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Pharm\Pharm.Application\obj\Debug\net5.0\Pharm.Application.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Pharm\Pharm.Application\obj\Debug\net5.0\Pharm.Application.AssemblyInfo.cs
+C:\Users\User\Desktop\Pharm\Pharm.Application\obj\Debug\net5.0\Pharm.Application.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Pharm\Pharm.Application\obj\Debug\net5.0\Pharm.Application.dll
+C:\Users\User\Desktop\Pharm\Pharm.Application\obj\Debug\net5.0\ref\Pharm.Application.dll
+C:\Users\User\Desktop\Pharm\Pharm.Application\obj\Debug\net5.0\Pharm.Application.pdb
+C:\Users\User\Desktop\Pharm\Pharm.Application\bin\Debug\net5.0\Pharm.Domain.dll
+C:\Users\User\Desktop\Pharm\Pharm.Application\bin\Debug\net5.0\Pharm.Infrastructure.dll
+C:\Users\User\Desktop\Pharm\Pharm.Application\bin\Debug\net5.0\Pharm.Domain.pdb
+C:\Users\User\Desktop\Pharm\Pharm.Application\bin\Debug\net5.0\Pharm.Infrastructure.pdb
+C:\Users\User\Desktop\Pharm\Pharm.Application\obj\Debug\net5.0\Pharm.Application.csproj.CopyComplete
