@@ -13,9 +13,9 @@ namespace Pharm.Domain.Models
         public int Quantity { get; set; }
 
         public int CategoriesId { get; set; }
-        public Category Categories { get;}
+        public Category Categories { get; set; }
 
         public int SupplierId { get; set; }
-        public Supplier Supplier { get; }
+        public Supplier Supplier { get; set; }
     }
 }

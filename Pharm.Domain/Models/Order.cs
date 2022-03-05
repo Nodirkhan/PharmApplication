@@ -10,6 +10,7 @@ namespace Pharm.Domain.Models
         public int OrderDetailId { get; set; }
         public OrderDatail OrderDetails { get; set; }
 
+        public int EmployeeId { get; set; }
         public Employee Employees { get; set; }
     }
 }

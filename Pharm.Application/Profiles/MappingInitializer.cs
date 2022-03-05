@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using Pharm.Application.DTOs;
 using Pharm.Application.DTOs.Categories;
+using Pharm.Application.DTOs.Employees;
 using Pharm.Application.DTOs.Product;
 using Pharm.Application.DTOs.Suppliers;
 using Pharm.Domain.Models;
@@ -21,6 +22,10 @@ namespace Pharm.Application.Profiles
 
             CreateMap<Supplier, SupplierDTO>().ReverseMap();
             CreateMap<Supplier, SupplierForCreationDTO>().ReverseMap();
+
+            CreateMap<Employee, EmployeeDTO>().ReverseMap();
+            CreateMap<Employee, EmployeeForCreationDTO>().ReverseMap();
+
         }
     }
 }

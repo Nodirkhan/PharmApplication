@@ -11,9 +11,15 @@ namespace Pharm.Application.Extensions
         public static void AddAplicationService(this IServiceCollection services)
         {
             services.AddAutoMapper(typeof(MappingInitializer));
+
             services.AddTransient<IProductService, ProductService>();
+            
             services.AddTransient<ICategoryServiceAsync, CategoryServiceAsync>();
+            
             services.AddTransient<ISupplierServiceAsync, SupplierServiceAsync>();
+        
+            services.AddTransient<IEmployeeServiceAsync, EmployeeServiceAsync>();
+
         }
     }
 }

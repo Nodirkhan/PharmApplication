@@ -19,6 +19,9 @@ namespace Pharm.Infrastructure.Extensions
             services.AddScoped<IProductRepository, ProductRepository>();
             services.AddScoped<ICategoryRepositoryAsync, CategoryRepositoryAsync>();
             services.AddScoped<ISupplierRepositoryAsync, SupplierRepositoryAsync>();
+            services.AddScoped<IEmployeeRepositoryAsync, EmployeeRepositoryAsync>();
+            services.AddScoped<IOrderRepositoryAsync, OrderRepositoryAsync>();
+            services.AddScoped<IOrderDetailRepositoryAsync, OrderDetailRepositoryAsync>();
         }
     }
 }

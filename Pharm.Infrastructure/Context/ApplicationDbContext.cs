@@ -19,6 +19,10 @@ namespace Pharm.Infrastructure.Context
 
         public DbSet<Supplier> Suppliers { get; set; }
 
+        public DbSet<Employee> Employees { get; set; }
+        
+        public DbSet<Order> Orders { get; set; }
 
+        public DbSet<OrderDatail> OrderDetails { get; set; }
     }
 }

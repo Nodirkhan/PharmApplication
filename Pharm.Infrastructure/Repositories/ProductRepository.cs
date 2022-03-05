@@ -14,6 +14,7 @@ namespace Pharm.Infrastructure.Repositories
         {
             _products = context.Products;
         }
+        
         /*public override async Task<Product> CreateAsync(Product entity)
         {
             _products.Include(item => item.Categories).Include(item => item.Supplier).(entity);
