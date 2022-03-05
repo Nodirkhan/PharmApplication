@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace Phamr.CRUDAPI.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/order")]
     [ApiController]
     public class OrderController : ControllerBase
     {
