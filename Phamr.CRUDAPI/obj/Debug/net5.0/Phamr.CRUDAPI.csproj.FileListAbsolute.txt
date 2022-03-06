@@ -70,3 +70,6 @@ C:\Users\User\Desktop\Pharm\Phamr.CRUDAPI\bin\Debug\net5.0\Microsoft.Extensions.
 C:\Users\User\Desktop\Pharm\Phamr.CRUDAPI\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
 C:\Users\User\Desktop\Pharm\Phamr.CRUDAPI\bin\Debug\net5.0\Pharm.Application.dll
 C:\Users\User\Desktop\Pharm\Phamr.CRUDAPI\bin\Debug\net5.0\Pharm.Application.pdb
+C:\Users\User\Desktop\Pharm\Phamr.CRUDAPI\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\User\Desktop\Pharm\Phamr.CRUDAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\User\Desktop\Pharm\Phamr.CRUDAPI\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll

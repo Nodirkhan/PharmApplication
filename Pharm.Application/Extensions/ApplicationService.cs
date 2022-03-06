@@ -20,6 +20,10 @@ namespace Pharm.Application.Extensions
         
             services.AddTransient<IEmployeeServiceAsync, EmployeeServiceAsync>();
 
+            services.AddTransient<IOrderServiceAsync, OrderServiceAsync>();
+
+            services.AddTransient<IOrderDetailServiceAsync, OrderDetailServiceAsync>();
+
         }
     }
 }

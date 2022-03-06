@@ -17,7 +17,7 @@ namespace Phamr.CRUDAPI.Controllers
             _employeeService = employee;
         }
         [HttpGet]
-        public async Task<IActionResult> GetAllAsync(int id)
+        public async Task<IActionResult> GetAllAsync()
         {
             return Ok(await _employeeService.GetAllEmployeeAsync());
         } 

@@ -1,5 +1,6 @@
 ﻿using Pharm.Application.DTOs.Categories;
 using Pharm.Application.DTOs.Suppliers;
+using Pharm.Domain.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -12,8 +13,8 @@ namespace Pharm.Application.DTOs.Product
     {
         public int Id { get; set; } 
 
-     /*   public CategoryDTO Categories { get; set; }
+        public Category Categories { get; set; }
 
-        public SupplierDTO Supplier { get; set; }*/
+        public Supplier Supplier { get; set; }
     }
 }

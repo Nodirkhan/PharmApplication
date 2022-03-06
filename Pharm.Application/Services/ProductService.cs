@@ -40,7 +40,7 @@ namespace Pharm.Application.Services
 
         public async Task<ProductDTO> GetProductAsync(int Id)
         {
-            return  _mapper.Map<ProductDTO>(await _productRepository.GetByIdAsync(product => product.Id == Id, new List<string> { "Category", "Supplier" }));
+            return  _mapper.Map<ProductDTO>(await _productRepository.GetByIdAsync(product => product.Id == Id, new List<string> { "Categories", "Supplier" }));
         }
     }
 }

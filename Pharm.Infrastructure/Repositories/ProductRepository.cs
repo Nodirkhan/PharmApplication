@@ -9,15 +9,15 @@ namespace Pharm.Infrastructure.Repositories
 {
     public class ProductRepository : GenericRepositoriesAsync<Product>,IProductRepository
     {
-        private readonly DbSet<Product> _products;
+        //private readonly DbSet<Product> _products;
         public ProductRepository(ApplicationDbContext context) : base(context)
         {
-            _products = context.Products;
+            //_products = context.Products;
         }
-        
-        /*public override async Task<Product> CreateAsync(Product entity)
+
+       /* public override async Task<Product> CreateAsync(Product entity)
         {
-            _products.Include(item => item.Categories).Include(item => item.Supplier).(entity);
+            _products.Include(item => item.Categories).Include(item => item.Supplier);
             await SaveChangesAsync();
             return entity;
         }*/

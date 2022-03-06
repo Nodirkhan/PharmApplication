@@ -1,5 +1,4 @@
-﻿using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using Pharm.Application.DTOs;
 using Pharm.Application.Interface;
 using System.Threading.Tasks;
@@ -35,7 +34,7 @@ namespace Phamr.CRUDAPI.Controllers
         public async Task<IActionResult> DeleteProduct(int Id)
         {
             await _productService.DeleteProductAsync(Id);
-             return   StatusCode(200);
+            return StatusCode(200);
         }
     }
 }

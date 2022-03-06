@@ -14,7 +14,6 @@ namespace Pharm.Application.DTOs
 
         public int CategoriesId { get; set; }
 
-
         public int SupplierId { get; set; }
 
     }
